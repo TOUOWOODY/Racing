@@ -1,0 +1,16 @@
+s_index,s_name,i_wealthtype,i_price
+car_00,차0,gamemoney,25
+car_01,차1,gamemoney,50
+car_02,차2,gamemoney,500
+car_03,차3,cash,2500
+car_04,차4,realmoney,5000
+car_05,차5,gamemoney,5000
+car_06,차6,gamemoney,7500
+car_07,차7,cash,12500
+car_08,차8,gamemoney,12500
+car_09,차9,gamemoney,17500
+car_10,차10,gamemoney,25000
+car_11,차11,cash,22500
+car_12,차12,gamemoney,35000
+car_13,차13,realmoney,25000
+car_14,차14,cash,30000

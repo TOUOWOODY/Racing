@@ -1,0 +1,76 @@
+s_key,s_Korean,s_English
+current_language,한국어,English
+start,시작,START
+store,상점,STORE
+select,선택,Select
+cancel,취소,Cancel
+next,다음,Next
+previous,이전,Previous
+buy,구매,Buy
+roading,로딩중 . . .,roading . . .
+topspeed,최고속도,Top speed
+cornering,코너링,Cornering
+acceleration,가속도,Acceleration
+braking,제동력,Braking
+record,기록,Record
+penalty,패널티,Penalty
+bonus,보너스,Bonus
+gamemoney,게임머니,GameMoney
+cash,캐쉬,Cash
+realmoney,현금,RealMoney
+currentcartext,현재 선택된 차량,Selected Car
+currenttracktext,현재 선택된 트랙,Selected Track
+selecttracktext,트랙을 선택해 주세요.,Please select a track.
+falsestart,부정출발,a false start
+speeding,과속,Speeding
+brakefailure,브레이크 실패,Brake failure
+adx2,광고 보고 2배 받기,x2 after watching the AD
+ok,확인,OK
+racingfailed,레이싱 실패!!,Racing failed!!
+car_00,비틀,Beetle
+car_01,포티,Poti
+car_02,듀스,Deuce
+car_03,블랙 포티,Black Poti
+car_04,폴리스 비머,Police Beemer
+car_05,디스코,Disco
+car_06,화이트 디스코,White Disco
+car_07,블랙 디스코,Black Disco
+car_08,재그,JAG
+car_09,부츠,Boots
+car_10,레드 부츠,Red Boots
+car_11,블랙 부츠,Black Boots
+car_12,말보르기니,Marlboroghini
+car_13,폴리스기니,Policeghini
+car_14,불가티,Bullgatti
+StarShop,스타,Star
+OilShop,코인,Coin
+cash_,스타 {0},Star {0}
+gamemoney_,코인 {0},Coin {0}
+car_5500,소나타,Sonata
+car_27500,코닉세그,Koenigsrgg
+pack_00,초보자 패키지,beginner Package
+pack_01,폴리스 비머 패키지,Police Beemer Package
+pack_02,폴리스 기니 패키지,Policeghini Package
+pack_03,광고 제거 패키지,Remove AD Package
+pack_04,궁극 패키지,Ultimate Package
+tip_0,기록을 단축하여 랭킹에 자신의 기록을 올려보세요.,Shorten your record and place your record on the rankings.
+tip_1,출발 신호 후 브레이크를 떼 주세요.,Stay touch on brake button until the START signal.
+tip_2,코너에서는 균형을 잃지 않도록 주의하세요.,Be careful not to lose your balance on the corner.
+tip_3,정확한 지점에 멈춰야 합니다.,Make sure it stops at the exact spot.(Blue Rectangle)
+tip_4,정확하게 멈출 수 록 보너스가 증가합니다.,Stop at exact spot for get more bonus.
+tip_5,차량 업그레이드는 능력당 10번씩 가능합니다.,Car can upgrade 10 times each status.
+tip_6,기록 하단에는 출발 반응속도가 표시됩니다.,At the bottom of the record
+tip_7,광고를 시청하면 두 배의 보상을 얻을 수 있습니다.,Watching AD provide reward * 2.
+tip_8,코너링이 높을수록 균형을 잃지 않습니다.,Higher cornering status keeps balance stay higher.
+tip_9,브레이크가 높을수록 더 빠르게 멈출 수 있습니다.,"Higher brake status, stop faster."
+tip_10,설정창의 EASY MODE를 체크하면 부정 출발을 방지해줍니다.,Checking the EASY MODE in the setting popup prevents false start.
+tip_11,랭킹 기록은 6시간마다 업데이트 됩니다.,Ranking records are updated every 6 hours.
+tip_12,스타트 대쉬는 START 신호 후 최대 1초간 지속됩니다.,The Start Dash will affect max 1 second after START signal.
+tip_13,START Interval은 START 신호부터 반응까지 걸린 시간입니다.,START Interval means time form START signal to reaction.
+tip_14,START Interval이 0.250초 이하라면 스타트 대쉬가 발동합니다.,"START Dash is work, when START Interval is under 0.250 sec."
+car,차량,Car
+removead,동영상 광고 제거,Remove AD
+warning,게임 삭제시 저장된 데이터가 사라질 수 있습니다.,"If you delete a game, saved data also deleted."
+Package,패키지,Package
+Car,차량,Car
+balance,균형,Balance
